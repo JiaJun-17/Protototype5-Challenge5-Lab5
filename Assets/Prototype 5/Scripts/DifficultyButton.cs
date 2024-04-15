@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI; //to interact with Button
+using UnityEngine.UI; //import library, to interact with Button
 
 public class DifficultyButton : MonoBehaviour
 {
